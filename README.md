@@ -29,6 +29,7 @@ Estou muito empenhado em aprender:
 <br>
 Apesar de estar atuando como Scrum Master, tenho bastante interesse em desenvolvimento de software e pretendo realizar uma transição de carreira em breve;<br>
 Especialista em Scrum - PSM-I, estudando Kotlin desde o básico até Spring framework;<br>
+Estudante do MIT - Engenharia de Software com Java no Instituto Infnet;<br>
 De Salvador - Bahia - Brasil;<br>
 
 ### Contatos:
