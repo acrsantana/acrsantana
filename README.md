@@ -3,7 +3,7 @@
       <td>
 - 👋 Hi, I’m @acrsantana - Augusto Cezar Ribeiro Santana<br>
 - 👀 I’m interested in tech, gaming, beer and sometimes code<br>
-- 🌱 I’m currently learning Kotlin just for fun<br>
+- 🌱 I’m currently learning Kotlin and Java, just for fun<br>
 - 💞️ I’m looking to collaborate on projects for people who is beginning to learn<br>
 - 🔭 I’m currently working on telecom projects as a Scrum Master
       </td>
