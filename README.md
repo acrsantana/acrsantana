@@ -2,10 +2,10 @@
     <tr>
       <td>
 - 👋 Hi, I’m @acrsantana - Augusto Cezar Ribeiro Santana<br>
-- 👀 I’m interested in tech, gaming, beer and sometimes code<br>
-- 🌱 I’m currently learning Kotlin and Java, just for fun<br>
-- 💞️ I’m looking to collaborate on projects for people who is beginning to learn<br>
-- 🔭 I’m currently working on telecom projects as a Scrum Master
+- 👀 I’m interested in tech, gaming, beer and code<br>
+- 🌱 I’m currently learning Java and Kotlin, willing to become a great developer<br>
+- 💞️ I’m looking to collaborate on projects with people who is beginning to learn<br>
+- 🔭 I’m currently working on telecom projects as a Java developer
       </td>
       <td>
         <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1636038530088.png" width="150" height="180"/>
@@ -17,7 +17,7 @@
 ## Olá, me chamo Augusto Cezar Ribeiro Santana ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Atualmente estou atuando como Scrum Master em projetos de tecnologia voltados para o mercado de Telecomunicações.
+Atualmente estou atuando como Desenvolvedor Java em projetos de tecnologia voltados para o mercado de Telecomunicações.
 
 Estou muito empenhado em aprender:
 <br>
@@ -36,9 +36,9 @@ Estou muito empenhado em aprender:
 <br>
 <br>
 <br>
-Apesar de estar atuando como Scrum Master, tenho bastante interesse em desenvolvimento de software e pretendo realizar uma transição de carreira em breve;<br>
-Especialista em Scrum - PSM-I, estudando Kotlin desde o básico até Spring framework;<br>
-Estudante do MIT - Engenharia de Software com Java no Instituto Infnet;<br>
+Tenho bastante interesse na área de tecnologia em geral, e passei por diversos cargos durante a minha carreira. Agora chegou a hora de focar no que de fato me faz feliz que é Desenvolvimento.<br>
+Especialista em Scrum - PSM-I, estudando Java desde o básico até os frameworks mais utilizados no mercado;<br>
+Estudante do MIT - Engenharia de Software com Java no Instituto Infnet - RJ;<br>
 De Salvador - Bahia - Brasil;<br>
 
 ### Contatos:
