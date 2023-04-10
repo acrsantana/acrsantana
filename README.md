@@ -37,8 +37,9 @@ Estou muito empenhado em aprender:
 <br>
 <br>
 Tenho bastante interesse na área de tecnologia em geral, e passei por diversos cargos durante a minha carreira. Agora chegou a hora de focar no que de fato me faz feliz que é Desenvolvimento.<br>
+Graduado em Ciencia da Computação na Unifacs - Universidade Salvador; <BR>
+Pós Graduado do MIT - Engenharia de Software com Java no Instituto Infnet - RJ;<br>
 Especialista em Scrum - PSM-I, estudando Java desde o básico até os frameworks mais utilizados no mercado;<br>
-Estudante do MIT - Engenharia de Software com Java no Instituto Infnet - RJ;<br>
 De Salvador - Bahia - Brasil;<br>
 
 ### Contatos:
