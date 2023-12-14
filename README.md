@@ -34,6 +34,9 @@ De Salvador - Bahia - Brasil;<br>
 Contatos
 --
 
+Algumas estatísticas
+--
+
 <div>
 <a href="https://instagram.com/cezaodabahia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:cezaodabahia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
