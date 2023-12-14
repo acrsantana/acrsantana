@@ -13,13 +13,14 @@
   </tr>
   </table>
 
-## Olá, me chamo Augusto Cezar Ribeiro Santana !
+Olá, me chamo Augusto Cezar Ribeiro Santana!
+--
 
 ### Bem vindo ao meu perfil GitHub 👋
 
 Atualmente estou atuando como Desenvolvedor Java em projetos de tecnologia voltados para o mercado de Telecomunicações.
 
-Atualmente estou trabalhando com a seguinte stack:
+Estou trabalhando com a seguinte stack tecnológica:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
 
@@ -27,7 +28,7 @@ Tenho bastante interesse na área de tecnologia em geral, e passei por diversos 
 chegou a hora de focar no que de fato me faz feliz que é Desenvolvimento.<br>
 Graduado em Ciencia da Computação na Unifacs - Universidade Salvador; <BR>
 Pós Graduado do MIT - Engenharia de Software com Java no Instituto Infnet - RJ;<br>
-Especialista em Scrum - PSM-I, estudando Java desde o básico até os frameworks mais utilizados no mercado;<br>
+Especialista em Scrum - PSM-I, eternamente estudando Java, desde o básico até os frameworks mais utilizados no mercado;<br>
 De Salvador - Bahia - Brasil;<br>
 
 ### Contatos:
