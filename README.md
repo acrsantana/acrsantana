@@ -31,7 +31,8 @@ Pós Graduado do MIT - Engenharia de Software com Java no Instituto Infnet - RJ;
 Especialista em Scrum - PSM-I, eternamente estudando Java, desde o básico até os frameworks mais utilizados no mercado;<br>
 De Salvador - Bahia - Brasil;<br>
 
-### Contatos:
+Contatos
+--
 
 <div>
 <a href="https://instagram.com/cezaodabahia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
